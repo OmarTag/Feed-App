@@ -29,8 +29,7 @@ After starting the server, open ***Expo Go*** app on your physical device and sc
   
   
 ### Screenshots
-![top](https://user-images.githubusercontent.com/17424399/219772802-8a4119fc-9842-4add-9d5a-b36fc10e7f99.PNG)
-![1](https://user-images.githubusercontent.com/17424399/219772766-e31c24dc-56de-420b-be50-960e492349b2.PNG)
-![postNoScroll](https://user-images.githubusercontent.com/17424399/219773046-15716640-9686-4928-bf0d-37f770b6f32b.PNG)
-![postScroll](https://user-images.githubusercontent.com/17424399/219773075-16d2b844-1253-49f4-8a3a-4a3d5517fe82.PNG)
-![openComments](https://user-images.githubusercontent.com/17424399/219773091-fdc53f93-860d-441e-aace-d357df49229d.PNG)
+![Screenshot_1676663050](https://user-images.githubusercontent.com/17424399/219775026-a021c180-cbbd-4878-ad3a-adfb686f5108.png)
+![Screenshot_1676663068](https://user-images.githubusercontent.com/17424399/219775093-c3ceb982-6383-46ad-8f39-12111123028b.png)
+![Screenshot_1676663075](https://user-images.githubusercontent.com/17424399/219775140-24e07c4a-d016-4a35-af37-284e3ab20a6d.png)
+![Screenshot_1676663083](https://user-images.githubusercontent.com/17424399/219775196-34714bb7-1beb-422c-b0e4-271e7c23abcc.png)

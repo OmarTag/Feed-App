@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Feed App",
-    "slug": "Feed App",
+    "slug": "feed-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -26,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d299813e-3eee-4c92-a6da-32de699b2b61"
+      }
+    },
+    "owner": "omartag"
   }
 }
